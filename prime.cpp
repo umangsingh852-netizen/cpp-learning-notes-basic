@@ -10,6 +10,9 @@ int main(){
             cout<<"Not Prime"<<endl;
 
         }
+        else{
+            cout<<"Prime for   "<< i <<endl;
+        }
         i = i+1;
     }
 }
